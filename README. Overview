@@ -3,7 +3,16 @@
 Project: Determine and examine factors that play a significant role in increasing the rate of heart attacks. Also, use the 
 findings to create and predict a model...
 
-"Predictive Modeling for Heart Attacks: Exploring Cardiovascular Diseases and Risk Factors."
+Title: "Predictive Modeling for Heart Attacks: Exploring Cardiovascular Diseases and Risk Factors."
+
+Cardiovascular diseases are one of the leading causes of deaths globally. To identify the causes and develop a system to 
+predict potential heart attacks in an effective manner is necessary. The data presented has all the information about relevant 
+factors that might have an impact on cardiovascular health. The data needs to be studied in detail for further analysis.
+
+There is one dataset data that has 14 attributes with more than 4000 data points.
+
+We are required to determine and examine the factors that play a significant role in increasing the rate of heart attacks. Also, use 
+the findings to create and predict a model.
 
 The project aims to analyze a dataset related to cardiovascular diseases and develop a predictive model for heart attacks.
 The following tasks are outlined:
@@ -16,19 +25,30 @@ and other characteristics.
 imputation or removal.
 3. Statistical summary: A preliminary analysis will be performed to calculate measures of central tendencies (mean, median, mode)
 and explore the spread of the data (variance, standard deviation).
-4. Categorical variables: Data variables that are likely categorical in nature will be identified. These variables will be explored using appropriate tools, such as count plots, to understand their distribution.
-5. Occurrence of cardiovascular disease (CVD) across different ages: The relationship between age and the occurrence of CVD will be studied to identify any trends or patterns.
-6. Composition of patients by gender: The distribution of patients with respect to gender will be examined to understand the gender representation in the dataset.
+4. Categorical variables: Data variables that are likely categorical in nature will be identified. These variables will be explored 
+using appropriate tools, such as count plots, to understand their distribution.
+5. Occurrence of cardiovascular disease (CVD) across different ages: The relationship between age and the occurrence of CVD will be 
+studied to identify any trends or patterns.
+6. Composition of patients by gender: The distribution of patients with respect to gender will be examined to understand the gender 
+representation in the dataset.
 
 Week 2:
 
-1. Relationship between cholesterol levels and the target variable: The relationship between cholesterol levels and the occurrence of heart attacks will be described and analyzed to determine any correlations.
-2. Relationship between peak exercising and heart attack occurrence: The association between the peak exercising level and the occurrence of heart attacks will be explored to identify any potential patterns or dependencies.
-3. Thalassemia as a major cause of CVD and other contributing factors: The impact of thalassemia and other factors on the occurrence of CVD will be investigated to determine their significance.
-4. Pair plot analysis: A pair plot will be used to visualize the relationships between all the given variables, providing insights into potential correlations or associations.
-5. Logistic regression modeling: A baseline logistic regression model will be built to predict the occurrence of heart attacks using the available data. The model's performance will be evaluated using a confusion matrix.
+1. Relationship between cholesterol levels and the target variable: The relationship between cholesterol levels and the occurrence 
+of heart attacks will be described and analyzed to determine any correlations.
+2. Relationship between peak exercising and heart attack occurrence: The association between the peak exercising level and the 
+occurrence of heart attacks will be explored to identify any potential patterns or dependencies.
+3. Thalassemia as a major cause of CVD and other contributing factors: The impact of thalassemia and other factors on the occurrence 
+of CVD will be investigated to determine their significance.
+4. Pair plot analysis: A pair plot will be used to visualize the relationships between all the given variables, providing insights 
+into potential correlations or associations.
+5. Logistic regression modeling: A baseline logistic regression model will be built to predict the occurrence of heart attacks 
+using the available data. The model's performance will be evaluated using a confusion matrix.
 
 Dashboarding:
 
-1. Variables associated with diseased and healthy individuals will be visualized using Tableau to create an interactive dashboard. The relationships between variables and factors contributing to heart health will be demonstrated, allowing for a comprehensive understanding of the data.
-2. Throughout the project, exploratory data analysis (EDA) techniques will be employed to gain insights into the dataset and facilitate the development of the predictive model for heart attacks.
+1. Variables associated with diseased and healthy individuals will be visualized using Tableau to create an interactive 
+dashboard. The relationships between variables and factors contributing to heart health will be demonstrated, allowing 
+for a comprehensive understanding of the data.
+2. Throughout the project, exploratory data analysis (EDA) techniques will be employed to gain insights into the dataset 
+and facilitate the development of the predictive model for heart attacks.
